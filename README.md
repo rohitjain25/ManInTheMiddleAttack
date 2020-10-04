@@ -1,4 +1,4 @@
-# ManInTheMiddleAttack
+# Man In The MiddleAttack
 Pre-Final Year Mini Project.
 I. INTRODUCTION
 A Man-in-the-Middle attack (MitM) is where a malicious
